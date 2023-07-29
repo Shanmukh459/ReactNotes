@@ -2,7 +2,7 @@
 
 This is a web application which hepls the user to create notes.
 
-I have created this application with the guidance of Joe taught at [Scrimba] (https://scrimba.com/playlist/pKNqYAZ) platform.
+I have created this application with the guidance of Bob Ziroll taught at [Scrimba] (https://scrimba.com/playlist/pKNqYAZ) platform.
 
 To make use of this code please follow the below instructions:
 
